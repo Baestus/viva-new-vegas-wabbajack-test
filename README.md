@@ -33,7 +33,7 @@ Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 		Each profile now has its own separate folder for the mod, "Iron Sights Aligned" and "Iron Sights Aligned - Anniversary Anim Pack Compatible". 
 		Not sure why Wabbajack wants to put the profile specific disabled mods at the bottom of the load order, but it could cause confusion in the future.
 	Potentially add Mojave Express Guide? Haven't looked at it.
-	
+	Add the pre-install checklist from the guide.
 
 
 
