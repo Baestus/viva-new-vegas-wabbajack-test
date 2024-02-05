@@ -7,15 +7,15 @@ Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 ## After Wabbajack finishes installing:
 	1. Open Included Mod Organizer 2 as Administator
 	2. Select the version of Viva New Vegas you would like to play (Base or Extended)
-	2. Copy the NVHR folder from New Vegas Heap Replacer into New Vegas's Data folder
+	3. Copy the NVHR folder from New Vegas Heap Replacer into New Vegas's Data folder
 	        You can do this by double clicking the mod in Mod Organizer, clicking Open Mod in Explorer, then copying and pasting into New Vegas's Data folder, usually in /Steam/steamapps/common/Fallout New Vegas/Data. 
-	3. Open Included Mod Organizer 2 as Administator
-	4. Run the "Ultimate ESM Fixes" program through Mod Organizer
+	4. Open Included Mod Organizer 2 as Administator
+	5. Run the "Ultimate ESM Fixes" program through Mod Organizer
 	    	Set output folder to the "Ultimate Edition ESM Fixes" folder in the /mods/ folder of your install.			
-	5. Run the "FNV BSA Decompressor" program through Mod Organizer
+	6. Run the "FNV BSA Decompressor" program through Mod Organizer
 	    	Set output folder to the "FNV BSA Decompressor" folder in the /mods/ folder of your install.
-	6. Run the 4GB FNV Patch through Mod Organizer
-	7. All set. Should be able to launch the game through the "New Vegas" option. 
+	7. Run the 4GB FNV Patch through Mod Organizer
+	8. All set. Should be able to launch the game through the "New Vegas" option. 
 	
 
 
