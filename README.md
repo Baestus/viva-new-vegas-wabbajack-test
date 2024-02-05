@@ -31,6 +31,8 @@ Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 	Test GOG.
 	Direct users to Performance and Stability Guide.
 	Figure out how to get rid of Improved AI YUP Patch and Iron Sights Aligned from the bottom of Visuals in the Extended Profile.
+		Each profile now has its own separate folder for the mod, "Iron Sights Aligned" and "Iron Sights Aligned - Anniversary Anim Pack Compatible". 
+		Not sure why Wabbajack wants to put the profile specific disabled mods at the bottom of the load order, but it could cause confusion in the future.
 	Potentially add Mojave Express Guide? Haven't looked at it.
 	
 
