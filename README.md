@@ -17,7 +17,6 @@ Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 	6. Run the 4GB FNV Patch through Mod Organizer
 	7. All set. Should be able to launch the game through the "New Vegas" option. 
 	
-	Note: You will have to do this for both of the profiles if you wish to switch between them. 
 
 
 # To-Do
@@ -30,9 +29,9 @@ Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 	Automatically grab the iNumHWThreads= value on the users system and update the falloutcustom.ini automatically.
 	Test Epic Games.
 	Test GOG.
-	Direct users to Performance and Stability Guide
-	Figure out to do with Viva New Vegas Base + Extended and Iron Sights Aligned. Maybe two separate mod folders for the same mod?
-	Potentially add Mojava Express Guide? Haven't looked at it.
+	Direct users to Performance and Stability Guide.
+	Figure out how to get rid of Improved AI YUP Patch and Iron Sights Aligned from the bottom of Visuals in the Extended Profile.
+	Potentially add Mojave Express Guide? Haven't looked at it.
 	
 
 
