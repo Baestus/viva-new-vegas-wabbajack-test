@@ -3,6 +3,9 @@ This is an attempt to convert Viva New Vegas into a Wabbajack mod list.
 
 Now supports the Viva New Vegas - Extended, updated February 4th 2024.
 Does not currently support the most up to date version of Viva New Vegas. 
+
+Please see https://github.com/zpok3/Viva-New-Vegas-Unofficial-Wabbajack for a more to date version.
+
 # This is incomplete, and the game will not run correctly without performing these steps:
 ## After Wabbajack finishes installing:
 	1. Run the "FNV BSA Decompressor" program through "_FNV BSA Decompressor" folder 
