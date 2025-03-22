@@ -1,10 +1,8 @@
 # viva-new-vegas-wabbajack-test
-This is an attempt to convert Viva New Vegas into a Wabbajack mod list. 
 
-Now supports the Viva New Vegas - Extended, updated February 4th 2024.
-Does not currently support the most up to date version of Viva New Vegas. 
+Viva New Vegas now has an official Wabbajack available, so this repository is depreciated.
 
-Please see https://github.com/zpok3/Viva-New-Vegas-Unofficial-Wabbajack for a more to date version.
+Now supports both the Viva New Vegas Base and Extended edition, updated February 4th 2024.
 
 # This is incomplete, and the game will not run correctly without performing these steps:
 ## After Wabbajack finishes installing:
@@ -17,18 +15,7 @@ Please see https://github.com/zpok3/Viva-New-Vegas-Unofficial-Wabbajack for a mo
 
 
 # To-Do
-	Somehow automate the running of FNV BSA Decompressor, ESM Fixes, and the running of the 4GB patch through Mod Organizer. 
-	    Maybe some type of Python script or Powershell Script? Linux version uses a Python script for 4GB Patcher. 
-	Temporarily automate copying "NVHR" from the mods folder to the Data folder. 
-		More permanent solution would be somehow successfully installing NVHR with Root Builder maybe?
-	    Add Uninstall option script to remove "NVHR" from the Data folder of New Vegas.
-	Test Epic Games.
-	Direct users to Performance and Stability Guide. Automate if possible.
-	Figure out how to get rid of Improved AI YUP Patch and Iron Sights Aligned from the bottom of Visuals in the Extended Profile.
-		Each profile now has its own separate folder for the mod, "Iron Sights Aligned" and "Iron Sights Aligned - Anniversary Anim Pack Compatible". 
-		Not sure why Wabbajack wants to put the profile specific disabled mods at the bottom of the load order, but it could cause confusion in the future.
-	Potentially add Mojave Express Guide? Haven't looked at it.
-	Add the pre-install checklist from the guide.
-
-
+N/A 
+Viva New Vegas now has an official Wabbajack available. If that one goes down again, send me a message and I'll update this one to the newest version.
+This Wabbajack also has the benefit of having BOTH the Viva New Vegas Base and Viva New Vegas Extended editions, unlike the official one. 
 
